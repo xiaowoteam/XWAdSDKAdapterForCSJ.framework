@@ -1,0 +1,6 @@
+framework module XWAdSDKAdapterForCSJ {
+  umbrella header "XWAdSDKAdapterForCSJ.h"
+
+  export *
+  module * { export * }
+}
